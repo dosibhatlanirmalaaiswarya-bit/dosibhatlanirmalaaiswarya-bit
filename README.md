@@ -8,7 +8,7 @@
 -->
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=woven&color=0:667eea,100:764ba2&height=300&section=header&text=Aiswarya%20Dosibhatla&fontSize=70&fontColor=fff&animation=twinkling&fontAlign=50&stroke=000000&strokeWidth=2&desc=◉%20Data%20Analyst%20◉%20ETL%20Architect%20◉%20Business%20Intelligence%20Specialist%20◉&descSize=18&descAlign=50&descAlignY=75" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=250&section=header&text=Aiswarya%20Dosibhatla&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=40&desc=Data%20Analyst%20%7C%20ETL%20Architect%20%7C%20Business%20Intelligence%20Specialist&descSize=18&descAlignY=60" />
 </div>
 
 <div align="center">
@@ -362,13 +362,11 @@ Contributed to the **EcoServants® Open Grant Network**, an initiative to create
 
 ### ☁️ Cloud Platforms & Data Engineering
 
-<img src="https://skillicons.dev/icons?i=azure,aws,databricks&theme=dark" height="50"/>
+<img src="https://skillicons.dev/icons?i=azure,aws&theme=dark" height="50"/>
 
 <img src="https://img.shields.io/badge/Azure_Data_Factory-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/> <img src="https://img.shields.io/badge/Azure_Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white"/> <img src="https://img.shields.io/badge/Azure_Data_Lake-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/> <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white"/> <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 
 ### 📊 Business Intelligence & Visualization
-
-<img src="https://skillicons.dev/icons?i=powerbi&theme=dark" height="50"/>
 
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/> <img src="https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/> <img src="https://img.shields.io/badge/Excel_Analytics-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/> <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
 
@@ -380,7 +378,7 @@ Contributed to the **EcoServants® Open Grant Network**, an initiative to create
 
 ### 🔧 Data Science & Analytics Libraries
 
-<img src="https://skillicons.dev/icons?i=pandas,numpy&theme=dark" height="50"/>
+<img src="https://skillicons.dev/icons?i=numpy&theme=dark" height="50"/>
 
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/> <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 
@@ -493,4 +491,278 @@ Contributed to the **EcoServants® Open Grant Network**, an initiative to create
 
 - **Dashboard Development**
   - Power BI interactive reports
-  - Advance
+  - Advanced DAX formulas
+  - KPI tracking & monitoring
+  - Executive dashboards
+
+- **Data Visualization**
+  - Tableau storytelling
+  - Excel advanced analytics
+  - Chart design principles
+  - Visual best practices
+
+- **Analytics Frameworks**
+  - A/B testing design
+  - Statistical analysis
+  - Trend identification
+  - Predictive modeling
+
+</td>
+<td valign="top">
+
+- **Azure Ecosystem**
+  - Azure Data Factory
+  - Azure Databricks
+  - Azure Data Lake Storage
+  - Azure Synapse Analytics
+
+- **AWS Services**
+  - S3 data storage
+  - Redshift warehousing
+  - Lambda functions
+  - Glue ETL jobs
+
+- **Architecture Patterns**
+  - Medallion Architecture
+  - Lambda Architecture
+  - Data Lake design
+  - Microservices integration
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 📚 CORE COMPETENCIES
+
+<div align="center">
+
+<table width="100%">
+<tr>
+<td width="25%" align="center">
+
+### 🎯 Technical Skills
+<img src="https://img.shields.io/badge/ETL_Development-667eea?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/Data_Warehousing-764ba2?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cloud_Computing-58A6FF?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL_Optimization-1ABC9C?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python_Scripting-2ECC71?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/Data_Modeling-3498DB?style=flat-square&logoColor=white"/>
+
+</td>
+<td width="25%" align="center">
+
+### 📊 Analytics
+<img src="https://img.shields.io/badge/Statistical_Analysis-E74C3C?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/Exploratory_Data_Analysis-F39C12?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/Business_Intelligence-9B59B6?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/KPI_Tracking-E67E22?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/Reporting_Automation-16A085?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/Data_Visualization-C0392B?style=flat-square&logoColor=white"/>
+
+</td>
+<td width="25%" align="center">
+
+### 🚀 Leadership
+<img src="https://img.shields.io/badge/Agile_Management-667eea?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/Team_Collaboration-764ba2?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/Sprint_Planning-58A6FF?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/Stakeholder_Communication-1ABC9C?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/Project_Delivery-2ECC71?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cross_Functional_Teams-3498DB?style=flat-square&logoColor=white"/>
+
+</td>
+<td width="25%" align="center">
+
+### 💡 Business Skills
+<img src="https://img.shields.io/badge/Requirements_Gathering-E74C3C?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/Strategic_Planning-F39C12?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/Process_Optimization-9B59B6?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/Data_Governance-E67E22?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/Problem_Solving-16A085?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/Decision_Support-C0392B?style=flat-square&logoColor=white"/>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 🎯 CAREER HIGHLIGHTS
+
+<div align="center">
+
+```mermaid
+graph LR
+    A[Junior Data Analyst<br/>2020-2021] --> B[Data Analyst<br/>2022-2023]
+    B --> C[MS Information Systems<br/>2023-2025]
+    C --> D[Data Analyst<br/>Eco Servant 2025]
+    
+    style A fill:#667eea,stroke:#333,stroke-width:2px,color:#fff
+    style B fill:#764ba2,stroke:#333,stroke-width:2px,color:#fff
+    style C fill:#58A6FF,stroke:#333,stroke-width:2px,color:#fff
+    style D fill:#1ABC9C,stroke:#333,stroke-width:2px,color:#fff
+```
+
+</div>
+
+### 🏅 Key Accomplishments
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+**🎯 Business Impact**
+- ✅ **40% reduction** in reporting time through dashboard optimization
+- ✅ **25% improvement** in data accuracy via automated validation
+- ✅ **50% faster** dashboard load times through SQL optimization
+- ✅ **20% increase** in campaign effectiveness through data insights
+- ✅ **15% boost** in user engagement via A/B testing
+- ✅ **30% reduction** in reporting turnaround time
+
+</td>
+<td width="50%" valign="top">
+
+**💻 Technical Excellence**
+- ✅ Processed **10M+ daily records** with 99.9% uptime
+- ✅ Validated **100K+ monthly data points** for quality assurance
+- ✅ Analyzed **50,000+ monthly visitors** for behavioral insights
+- ✅ Tracked KPIs across **40+ global regions**
+- ✅ Led **15+ sprint cycles** with zero missed deadlines
+- ✅ Created **40+ interactive dashboards** for 500+ stakeholders
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🤝 CONNECT WITH ME
+
+<div align="center">
+
+### Let's Transform Data Into Insights Together!
+
+<table>
+<tr>
+<td align="center">
+<img src="https://img.shields.io/badge/📧_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/><br/>
+<a href="mailto:nirmalaaiswaryadosibhatla@gmail.com">nirmalaaiswaryadosibhatla@gmail.com</a>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/📱_Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/><br/>
+<a href="tel:+19409772944">+1 940-977-2944</a>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/💼_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/><br/>
+<a href="https://linkedin.com/in/Aiswarya">Connect on LinkedIn</a>
+</td>
+</tr>
+<tr>
+<td align="center">
+<img src="https://img.shields.io/badge/🐙_GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/><br/>
+<a href="https://github.com/dosibhatlanirmalaaiswarya-bit">View GitHub Profile</a>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/📍_Location-F39C12?style=for-the-badge&logo=googlemaps&logoColor=white"/><br/>
+Dallas, Texas, USA
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/💬_Status-2ECC71?style=for-the-badge&logo=statuspage&logoColor=white"/><br/>
+Open to Opportunities
+</td>
+</tr>
+</table>
+
+<br>
+
+### 🌟 Open to Opportunities In:
+
+<img src="https://img.shields.io/badge/Data_Analyst-667eea?style=for-the-badge"/> <img src="https://img.shields.io/badge/ETL_Developer-764ba2?style=for-the-badge"/> <img src="https://img.shields.io/badge/BI_Developer-58A6FF?style=for-the-badge"/> <img src="https://img.shields.io/badge/Data_Engineer-1ABC9C?style=for-the-badge"/> <img src="https://img.shields.io/badge/Analytics_Engineer-2ECC71?style=for-the-badge"/>
+
+</div>
+
+---
+
+## 📊 GITHUB STATISTICS
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%">
+<img src="https://github-readme-stats.vercel.app/api?username=dosibhatlanirmalaaiswarya-bit&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=764ba2&text_color=ffffff" width="100%"/>
+</td>
+<td width="50%">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dosibhatlanirmalaaiswarya-bit&theme=tokyonight&hide_border=true&background=0D1117&stroke=667eea&ring=764ba2&fire=FFA116&currStreakLabel=ffffff" width="100%"/>
+</td>
+</tr>
+</table>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dosibhatlanirmalaaiswarya-bit&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&text_color=ffffff" width="50%"/>
+
+</div>
+
+---
+
+## 🏆 GITHUB TROPHIES
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=dosibhatlanirmalaaiswarya-bit&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" width="100%"/>
+
+</div>
+
+---
+
+## 💭 PROFESSIONAL PHILOSOPHY
+
+<div align="center">
+
+```typescript
+const professionalMotto = {
+  mission: "Transform raw data into strategic business intelligence",
+  approach: "Data-driven decision making with actionable insights",
+  values: ["Excellence", "Innovation", "Collaboration", "Impact"],
+  goal: "Bridge the gap between data complexity and business clarity",
+  commitment: "Continuous learning and staying ahead of industry trends"
+};
+
+console.log("🎯 Driven by data. Powered by insights. Committed to excellence.");
+```
+
+</div>
+
+---
+
+## 📝 RECENT ACTIVITY
+
+<div align="center">
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ If you find my work interesting, please star my repositories!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
+
+**Thank you for visiting my profile!** 
+
+<img src="https://komarev.com/ghpvc/?username=dosibhatlanirmalaaiswarya-bit&color=667eea&style=flat-square"/>
+
+---
+
+**Last Updated**: December 2025 | **Built with** ❤️ **by Aiswarya Dosibhatla**
+
+</div>
