@@ -696,15 +696,15 @@ Open to Opportunities
 <table>
 <tr>
 <td width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=dosibhatlanirmalaaiswarya-bit&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=764ba2&text_color=ffffff" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=dosibhatlanirmalaaiswarya-bit&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=764ba2&text_color=ffffff&count_private=true&include_all_commits=true" width="100%"/>
 </td>
 <td width="50%">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=dosibhatlanirmalaaiswarya-bit&theme=tokyonight&hide_border=true&background=0D1117&stroke=667eea&ring=764ba2&fire=FFA116&currStreakLabel=ffffff" width="100%"/>
+<img src="https://streak-stats.demolab.com/?user=dosibhatlanirmalaaiswarya-bit&theme=radical&hide_border=true&background=0D1117&stroke=667eea&ring=764ba2&fire=FFA116&currStreakLabel=ffffff" width="100%"/>
 </td>
 </tr>
 </table>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dosibhatlanirmalaaiswarya-bit&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&text_color=ffffff" width="50%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dosibhatlanirmalaaiswarya-bit&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=667eea&text_color=ffffff&langs_count=8" width="50%"/>
 
 </div>
 
@@ -714,7 +714,7 @@ Open to Opportunities
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=dosibhatlanirmalaaiswarya-bit&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" width="100%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=dosibhatlanirmalaaiswarya-bit&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1&column=7" width="100%"/>
 
 </div>
 
