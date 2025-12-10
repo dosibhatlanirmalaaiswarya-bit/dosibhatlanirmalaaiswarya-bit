@@ -445,11 +445,74 @@ Contributed to the **EcoServants® Open Grant Network**, an initiative to create
 
 ---
 
-## 📈 GITHUB ACTIVITY GRAPH
+## 📊 GITHUB STATISTICS
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dosibhatlanirmalaaiswarya-bit&theme=react&bg_color=0D1117&color=667eea&line=764ba2&point=FFA116&area=true&hide_border=true" width="100%"/>
+### 🎯 Profile Metrics & Achievements
+
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/📁-9+-667eea?style=for-the-badge" alt="Repos"/><br/>
+<strong>Repositories</strong><br/>
+<sub>Active Projects</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/💻-114+-764ba2?style=for-the-badge" alt="Commits"/><br/>
+<strong>Commits</strong><br/>
+<sub>Contributions</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/⭐-Growing-58A6FF?style=for-the-badge" alt="Stars"/><br/>
+<strong>Stars</strong><br/>
+<sub>Recognition</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/🔱-Active-1ABC9C?style=for-the-badge" alt="Network"/><br/>
+<strong>Network</strong><br/>
+<sub>Connections</sub>
+</td>
+</tr>
+</table>
+
+<br/>
+
+### 💻 Technology Distribution
+
+<table>
+<tr>
+<th width="40%">Language</th>
+<th width="60%">Proficiency Level</th>
+</tr>
+<tr>
+<td><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> Python</td>
+<td><img src="https://img.shields.io/badge/■■■■■■■■■□-90%25-667eea?style=flat-square"/></td>
+</tr>
+<tr>
+<td><img src="https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/> SQL</td>
+<td><img src="https://img.shields.io/badge/■■■■■■■■□□-85%25-764ba2?style=flat-square"/></td>
+</tr>
+<tr>
+<td><img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white"/> Azure</td>
+<td><img src="https://img.shields.io/badge/■■■■■■■□□□-75%25-58A6FF?style=flat-square"/></td>
+</tr>
+<tr>
+<td><img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white"/> R</td>
+<td><img src="https://img.shields.io/badge/■■■■■■□□□□-65%25-1ABC9C?style=flat-square"/></td>
+</tr>
+</table>
+
+<br/>
+
+### 📈 Contribution Activity
+
+| Status | Details |
+|:------:|:-------:|
+| 🟢 **Active** | Regular Contributions |
+| 📝 **Recent Activity** | Consistent Updates |
+| 🔄 **Streak** | Ongoing Development |
+| 🌟 **Quality** | Best Practices |
 
 </div>
 
@@ -689,37 +752,6 @@ Open to Opportunities
 
 ---
 
-## 📊 GITHUB STATISTICS
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=dosibhatlanirmalaaiswarya-bit&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=764ba2&text_color=ffffff&count_private=true&include_all_commits=true" width="100%"/>
-</td>
-<td width="50%">
-<img src="https://streak-stats.demolab.com/?user=dosibhatlanirmalaaiswarya-bit&theme=radical&hide_border=true&background=0D1117&stroke=667eea&ring=764ba2&fire=FFA116&currStreakLabel=ffffff" width="100%"/>
-</td>
-</tr>
-</table>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dosibhatlanirmalaaiswarya-bit&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=667eea&text_color=ffffff&langs_count=8" width="50%"/>
-
-</div>
-
----
-
-## 🏆 GITHUB TROPHIES
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=dosibhatlanirmalaaiswarya-bit&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1&column=7" width="100%"/>
-
-</div>
-
----
-
 ## 💭 PROFESSIONAL PHILOSOPHY
 
 <div align="center">
@@ -735,17 +767,6 @@ const professionalMotto = {
 
 console.log("🎯 Driven by data. Powered by insights. Committed to excellence.");
 ```
-
-</div>
-
----
-
-## 📝 RECENT ACTIVITY
-
-<div align="center">
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
 
 </div>
 
